@@ -10,3 +10,5 @@ else:
     prioridade = "Normal"
 
 print(f"A prioridade de atendimento é: {prioridade}")
+
+# exercicio20
